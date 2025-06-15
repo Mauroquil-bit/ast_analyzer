@@ -186,7 +186,7 @@ Si este proyecto te sirvió y te ahorró tiempo en revisiones de código, consid
 
 ### 💝 Cómo donar a través de GitHub
 
-1. **GitHub Sponsors** 
+1. **GitHub Sponsors** : https://github.com/Mauroquil-bit
 
 2. **Alternativas**:
    - ⭐ Dale una estrella al repositorio
