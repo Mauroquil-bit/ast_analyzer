@@ -206,10 +206,10 @@ Si este proyecto te sirvió y te ahorró tiempo en revisiones de código, consid
 - 🔧 Permite agregar nuevas características
 - 📖 Mejora la documentación y ejemplos
 - 🐛 Arregla bugs más rápidamente
-- ☕ Me compra un café mientras codifico
+- ☕ Me compro un café mientras codifico
 
 **¡Cualquier aporte, por pequeño que sea, es muy valorado!** 🚀
 
 ---
 
-*Desarrollado con ❤️ para la comunidad de Python y networking*
+
