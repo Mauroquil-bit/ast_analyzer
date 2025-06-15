@@ -186,11 +186,7 @@ Si este proyecto te sirvió y te ahorró tiempo en revisiones de código, consid
 
 ### 💝 Cómo donar a través de GitHub
 
-1. **GitHub Sponsors** (recomendado):
-   - Ve a tu perfil de GitHub
-   - Haz clic en el botón "❤️ Sponsor" 
-   - Selecciona el monto y método de pago
-   - ¡Listo! Tu contribución ayuda a mantener este proyecto
+1. **GitHub Sponsors** 
 
 2. **Alternativas**:
    - ⭐ Dale una estrella al repositorio
