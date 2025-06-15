@@ -4,8 +4,6 @@ Analizador inteligente de calidad de código Python usando AST. Detecta código 
 
 ## 🎯 ¿Para qué sirve?
 
-Este analizador actúa como tu **compañero de código personal** que te avisa si te estás "yendo al pasto" antes de que lo vea otra persona o una auditoría. Es como tener un revisor que te dice si estás "pisando el cordón de la vereda".
-
 ### ✨ Características principales
 
 - 🧟 **Detección de código muerto** - Encuentra funciones que no se usan
