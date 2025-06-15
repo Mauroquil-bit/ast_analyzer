@@ -1,9 +1,6 @@
-# ast_analyzer
-Analizador inteligente de calidad de código Python usando AST. Detecta código muerto, funciones complejas, problemas de nomenclatura y manejo de errores. Especializado para código de networking y telecomunicaciones.
-
 # 🚀 AST Analyzer - Analizador Inteligente de Código Python
 
-Mi "revisor personal" de código Python antes de que otros lo vean. Análisis estático usando AST para detectar problemas de calidad, especialmente en código de networking y telecomunicaciones.
+Analizador inteligente de calidad de código Python usando AST. Detecta código muerto, funciones complejas, problemas de nomenclatura y manejo de errores. Especializado para código de networking y telecomunicaciones.
 
 ## 🎯 ¿Para qué sirve?
 
